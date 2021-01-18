@@ -1,0 +1,2 @@
+# docker-ansible-2.10-with-cloud-provider-roles
+A docker image for use by the [ansible-2.10-playbook-docker-action](https://github.com/watterso/ansible-2.10-playbook-docker-action) github action. You probably don't want this image :)
